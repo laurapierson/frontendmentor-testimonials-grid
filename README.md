@@ -6,7 +6,5 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 Users should be able to view the optimal layout for the site depending on their device's screen size
 
-## Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+## View Solution
+[https://laurapierson.github.io/frontendmentor-testimonials-grid/](https://laurapierson.github.io/frontendmentor-testimonials-grid/)
